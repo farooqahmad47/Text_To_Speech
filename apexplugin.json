@@ -1,0 +1,35 @@
+{
+    "name" : "Text To Speech",
+    "version" : "2.0",
+    "description" : "This Oracle APEX plugin main work of plugin is to convert text to speech",
+    "keywords" : ["Text to speech","text","speech","plugin"],
+    "homepage" : "https://github.com/farooqahmad47/Text_To_Speech",
+    "bugs" : {
+      "url" : "https://github.com/farooqahmad47/Text_To_Speech/issues",
+      "email" : "farooq.oracle47@gmail.com"
+    },
+    "license" : "MIT",
+    "commercial" : "No",
+    "author" : {
+      "name" : "Farooq Ahmad",
+      "email" : "farooq.oracle47@gmail.com",
+      "url" : "https://www.linkedin.com/in/farooqahmadoracleapex/",
+      "twitter": ""
+    },
+    "repository" : {
+      "type" : "git",
+      "url" : "https://github.com/farooqahmad47/Text_To_Speech.git"
+    },
+   "oracle" : {
+      "versions" : ["19.0.0.0","21.0.0.0","23.0.0.0"],
+      "apex" : {
+        "versions" : ["24.1","24.2"],
+        "plugin" : {
+          "internalName" : "TEXT_SPEACHV2",
+          "type" : "template component",
+          "demo" : "https://apex.oracle.com/pls/apex/r/ahmad_tech/plug-in-palace/login",
+          "previewImage" : "https://github.com/farooqahmad47/Text_To_Speech/blob/main/text-to-speech.png?raw=true"
+        }
+      }
+    }
+  }
