@@ -18,6 +18,6 @@ If no matching voice is found for the specified language, the browser may use a 
 # Demo
 A live demo can be found at https://apex.oracle.com/pls/apex/r/ahmad_tech/plug-in-palace/login
 
-https://github.com/farooqahmad47/Text_To_Speech/blob/main/text-to-speech.png?raw=true
+![image](https://github.com/user-attachments/assets/8d9b219c-007f-453f-ad22-97c0f01935e5)
 
 
