@@ -14,3 +14,10 @@ The browser automatically detects available voices via window.speechSynthesis.ge
 Fallback Behavior:
 
 If no matching voice is found for the specified language, the browser may use a default voice, which might not perfectly match the intended language.
+
+# Demo
+A live demo can be found at https://apex.oracle.com/pls/apex/r/ahmad_tech/plug-in-palace/login
+
+https://github.com/farooqahmad47/Text_To_Speech/blob/main/text-to-speech.png?raw=true
+
+
